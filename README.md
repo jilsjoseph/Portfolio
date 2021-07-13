@@ -2,7 +2,7 @@
 *An Aspiring Data Scientist 
 
 # Education
-* PG Certificate in Data Analytics, *St Clair College, 2018-2020
+* PG Certificate in Data Analytics, *St Clair College*, 2018-2020
 * Bachelors of Engineering (Computer Science), *M G University*, 2011-2016
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
