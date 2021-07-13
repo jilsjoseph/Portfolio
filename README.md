@@ -39,7 +39,7 @@ to get good prediction for the models. Using packages like Folium, Seaborn
 plot different graphs in python. Predict which type of crime at which region
 and at what time using our analysis.
 
-# [Project 2: Health care analysis](http://youtube.com/dataprofessor)
+# [Project 2: Health care analysis](https://github.com/jilsjoseph/project/blob/master/Healthcare_Anlytics(GroupProject).pdf)
 
 Analysis data related to liver cancer. Use excel and tableau to plot and
 analysis the dataset. Use multiple resources to research and consulted
