@@ -25,6 +25,7 @@ collection teams. Making sure that projects tested for QA
 Intern as a junior programmer in ASP.NET, Create and optimized
 
 # [Project 1: Toronto Crime Analysis](http://youtube.com/dataprofessor)
+![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
