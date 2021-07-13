@@ -6,12 +6,8 @@ An Aspiring Data Scientist
 * Bachelors of Engineering (Computer Science), *M G University*, 2011-2016
 
 # Work Experience
-Concentrix- Technical service advisor, ON
-2020-present
-Provide technical assistance to customers experiencing software, hardware or
-technical issues via calls and emails. Asist and interact with customer. Offer
-advice and suggestions to specialists. Making sure that customers are assured,
-and queries are solved in a timely manner.
+Concentrix- Technical service advisor, ON 2020-present
+*Provide technical assistance to customers experiencing software, hardware or technical issues via calls and emails. Asist and interact with customer. Offer advice and suggestions to specialists. Making sure that customers are assured, and queries are solved in a timely manner.
 Central Transport-Billing clerk, ON
 2018–2020
 Check the data input in the system to ensure accuracy of final bill
