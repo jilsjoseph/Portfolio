@@ -24,7 +24,7 @@ collection teams. Making sure that projects tested for QA
 * **Soften Technology – Junior Programmer[intern] 2016**
 Intern as a junior programmer in ASP.NET, Create and optimized
 
-# [Project 1: Toronto Crime Analysis](http://youtube.com/dataprofessor)
+# [Project 1: Toronto Crime Analysis](https://github.com/jilsjoseph/project/blob/master/capstone%20report.pdf)
 ![alt text](aditya-chinchure-AxGByUaoz_o-unsplash (1).jpg)
 
 Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Chinchure</a> on <a href="https://unsplash.com/s/photos/toronto-city?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -48,7 +48,7 @@ critical feature of patients diagnosed with cancer using our analysis. Use
 different machine learning models to predict the survival of patients. Were
 able to observe and identify different interline factors affecting liver cancer.
 
-# [Project 3: Financial Analysis and stock comparison](http://youtube.com/dataprofessor)
+# Project 3: Financial Analysis and stock comparison
 
 Compare different brands to find out the best one. Analyze different types of
 data of different products to identify which one has more buyers and are
@@ -56,7 +56,7 @@ more profitable. Use stock price of these to predict and analyze the
 performance of the company throughout years. Using Neural Networks, we
 can predict the stock trends and forecast the sales.
 
-# [Project 4: Online Survey](http://youtube.com/dataprofessor)
+# Project 4: Online Survey
 
 Using google forms to create a survey among different groups, Collect, clean,
 and analyze the data in excel and plot and present theses analysis. Use IBM
