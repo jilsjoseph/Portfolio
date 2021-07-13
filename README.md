@@ -25,7 +25,7 @@ collection teams. Making sure that projects tested for QA
 Intern as a junior programmer in ASP.NET, Create and optimized
 
 # [Project 1: Toronto Crime Analysis](http://youtube.com/dataprofessor)
-![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+![alt text](aditya-chinchure-AxGByUaoz_o-unsplash (1).jpg)
 
 Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Chinchure</a> on <a href="https://unsplash.com/s/photos/toronto-city?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
