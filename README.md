@@ -14,16 +14,14 @@ Review invoices to identify any errors before invoice delivery, Compile and
 maintain documents and records of all billings, Package, post weights, and
 shipping charges and determine methods of shipment. Audit to check before
 the final dispatch of shipment from the terminal.
-Bead Technology – Software Developer
-2016-2017
+* **Bead Technology – Software Developer 2016-2017**
 Requirement gathering for new projects, database, and UI design,
 Collaborate closely with clients. Write new code as well as customize and
 optimize existing code like sql, C#. Knowledge in Widows form, web
 applications, win desktop application and web services Clean large size
 data’s, process, analysis and verify data, Part of different project and data
 collection teams. Making sure that projects tested for QA
-Soften Technology – Junior Programmer[intern]
-2016
+* **Soften Technology – Junior Programmer[intern] 2016**
 Intern as a junior programmer in ASP.NET, Create and optimized
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
