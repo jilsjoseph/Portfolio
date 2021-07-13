@@ -1,9 +1,9 @@
-# John Doe
+# Jils Joseph
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* PG Certificate in Data Analytics, *St Clair College, 2018-2020
+* Bachelors of Engineering (Computer Science), *M G University*, 2011-2016
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
