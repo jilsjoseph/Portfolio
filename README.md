@@ -2,7 +2,7 @@
 An Aspiring Data Analyst
 
 # About me 
-I am a quick learning adaptive individual I being in the development industry for more than 3 years most of my skills are related to data analysis. I have advanced ability in MS excel, SQL, Tableau, power Bi, problem solving and data analytic skill. I have experiened  different programming language and work in different environments. Handling pressure and high work loads. I am always trying to improve my skills. I like to try new thing and learn them so that i can extent my reach. I am fasinated by data and how we can analysys the data.
+I am a quick learning adaptive individual I being in the development industry for more than 3 years most of my skills are related to data analysis. I have advanced ability in MS excel, SQL, Tableau, power Bi, problem solving and data analytic skill. I have experiened  different programming language and work in different environments. Handling pressure and high work loads. I am always trying to improve my skills. I like to try new thing and learn them so that i can extent my reach. I am fasinated by data and how we can analyse the data.
 
 
 # Education
