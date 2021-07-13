@@ -24,16 +24,44 @@ collection teams. Making sure that projects tested for QA
 * **Soften Technology – Junior Programmer[intern] 2016**
 Intern as a junior programmer in ASP.NET, Create and optimized
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: Toronto Crime Analysis]
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
 
+
+
+Collect and analysis past crime data of Toronto region. Using Excel clean and
+plot initial analysis. Provide visualization using tableau for different analysis and
+find different patterns. Run different models like ARIMA, Random Forest, KNN,
+Decision Tree and LSTM to predict accuracy and optimize the neural networks
+to get good prediction for the models. Using packages like Folium, Seaborn
+plot different graphs in python. Predict which type of crime at which region
+and at what time using our analysis.
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
 * **Output:** Trading signals triggers buying and selling
+
+Health care analysis
+Analysis data related to liver cancer. Use excel and tableau to plot and
+analysis the dataset. Use multiple resources to research and consulted
+professional about the factors and terminologies in this field. Able to find
+critical feature of patients diagnosed with cancer using our analysis. Use
+different machine learning models to predict the survival of patients. Were
+able to observe and identify different interline factors affecting liver cancer.
+Financial Analysis and stock comparison
+Compare different brands to find out the best one. Analyze different types of
+data of different products to identify which one has more buyers and are
+more profitable. Use stock price of these to predict and analyze the
+performance of the company throughout years. Using Neural Networks, we
+can predict the stock trends and forecast the sales.
+Online Survey
+Using google forms to create a survey among different groups, Collect, clean,
+and analyze the data in excel and plot and present theses analysis. Use IBM
+Cognos to analyze and report data. Making user that Ethics for analysis is
+properly followed.
