@@ -1,5 +1,5 @@
 # Jils Joseph
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+*An Aspiring Data Scientist 
 
 # Education
 * PG Certificate in Data Analytics, *St Clair College, 2018-2020
