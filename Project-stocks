@@ -1,1 +1,21 @@
+# Basic analysis using Excel
 
+
+# Stock price Purchase
+
+Using basic excel we are analysing stock price and profit for a five-year time. Using intel stock price from 2016 to 2021 we are checking to see the difference between buying stock all at first or buy them throughout the years.
+We are checking to see the difference in the profit/loss. 
+
+
+
+# Details
+* Data set from yahoo finance 
+* From 2016-2021
+* Data set contains:- Date, Open, High, Low, Close, adjvolume, Volume
+* No need to cleam the data set 
+
+
+
+
+# [Project 1: Toronto Crime Analysis](https://github.com/jilsjoseph/project/blob/master/capstone%20report.pdf)
+![alt text](aditya-chinchure-AxGByUaoz_o-unsplash (1).jpg)
