@@ -8,11 +8,16 @@ We are checking to see the difference in the profit/loss.
 
 
 
-# Details
+# Data set
 * Data set from yahoo finance 
 * From 2016-2021
 * Data set contains:- Date, Open, High, Low, Close, adjvolume, Volume
 * No need to cleam the data set 
+
+# Details
+* stock respect to each month
+*For analysis purposes we are using average price on that respective month (high and low )
+*Assuming we buy 1 unit per month 
 
 
 
