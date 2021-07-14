@@ -35,6 +35,11 @@ critical feature of patients diagnosed with cancer using our analysis. Use
 different machine learning models to predict the survival of patients. Were
 able to observe and identify different interline factors affecting liver cancer.
 
+
+# Project 3: Project-stocks(https://github.com/jilsjoseph/Portfolio/blob/3e70542b31b6f978566e6eb1399ad541b12ee2af/Project-stocks)
+
+Stock of intel and basic analysis using excel
+
 # Project 3: Financial Analysis and stock comparison
 
 Compare different brands to find out the best one. Analyze different types of
