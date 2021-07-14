@@ -36,11 +36,20 @@ different machine learning models to predict the survival of patients. Were
 able to observe and identify different interline factors affecting liver cancer.
 
 
-# Project 3: [Project-stocks](https://github.com/jilsjoseph/Portfolio/blob/3e70542b31b6f978566e6eb1399ad541b12ee2af/Project-stocks)
+# Project 3: Project-stocks
 
-Stock of intel and basic analysis using excel
+ Basic analysis using excel and use simple linear regression to forecast stock price.
+ This uses dataset from yahoo and using intel stock piece from 2016 to 2021 a 5 year. 
 
-# Project 3: Financial Analysis and stock comparison
+* Basic Analysis using [Ecxel](https://github.com/jilsjoseph/Portfolio/blob/3e70542b31b6f978566e6eb1399ad541b12ee2af/Project-stocks)
+Analyse the difference between stocks bought all at the beginning and stock bought each month (dollar cost averaging) for a time of five years
+* Excel linear [Forecasting](https://github.com/jilsjoseph/Portfolio/blob/1f029872afb8ad8fb3c09a200fbe8d5d25b1c749/Stock%20Forecasting%20using%20Excel.pdf)
+We are going to use a simple linear regression to forecast stock price. We are checking to see if we can predict the stock price. 
+
+All the calculations are done in excel.
+Link to [excel] (https://github.com/jilsjoseph/Portfolio/blob/91541dd81b5332902696af755c767948aae9492f/INTC%20(1).csv)
+
+# Project 4: Financial Analysis and stock comparison
 
 Compare different brands to find out the best one. Analyze different types of
 data of different products to identify which one has more buyers and are
@@ -48,7 +57,7 @@ more profitable. Use stock price of these to predict and analyze the
 performance of the company throughout years. Using Neural Networks, we
 can predict the stock trends and forecast the sales.
 
-# Project 4: Online Survey
+# Project 5: Online Survey
 
 Using google forms to create a survey among different groups, Collect, clean,
 and analyze the data in excel and plot and present theses analysis. Use IBM
