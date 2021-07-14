@@ -41,13 +41,13 @@ able to observe and identify different interline factors affecting liver cancer.
  Basic analysis using excel and use simple linear regression to forecast stock price.
  This uses dataset from yahoo and using intel stock price from 2016 to 2021 a 5 year. 
 
-* Basic Analysis using [Ecxel](https://github.com/jilsjoseph/Portfolio/blob/3e70542b31b6f978566e6eb1399ad541b12ee2af/Project-stocks)
+* Basic Analysis using [Ecxel](https://github.com/jilsjoseph/Portfolio/blob/1979fecc49ccecebd237f2ffab77e4b008a645fa/Basic%20analysis%20using%20Excel.pdf)
 Analyse the difference between stocks bought all at the beginning and stocks bought each month (dollar cost averaging) for a time of five years
 * Excel linear [Forecasting](https://github.com/jilsjoseph/Portfolio/blob/1f029872afb8ad8fb3c09a200fbe8d5d25b1c749/Stock%20Forecasting%20using%20Excel.pdf)
 We are going to use a simple linear regression to forecast stock price. We are checking to see if we can predict the stock price. 
 
 All the calculations are done in excel.
-Link to [excel] (https://github.com/jilsjoseph/Portfolio/blob/91541dd81b5332902696af755c767948aae9492f/INTC%20(1).csv)
+Link to [excel](https://github.com/jilsjoseph/Portfolio/blob/91541dd81b5332902696af755c767948aae9492f/INTC%20(1).csv)
 
 # Project 4: Financial Analysis and stock comparison
 
