@@ -27,7 +27,7 @@ I am a quick learning adaptive individual I being in the development industry fo
 
 Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Chinchure</a> on <a href="https://unsplash.com/s/photos/toronto-city?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
+* **Python libraries used:** Streamlit, Huggingface, TensorFlow, numpy , pandas , TensorFlow, matplotlib, seaborn, sklearn. keras, mglearn, folium
 
 Collect and analysis past crime data of Toronto region. Using Excel clean and
 plot initial analysis. Provide visualization using tableau for different analysis and
@@ -76,6 +76,8 @@ Cognos to analyze and report data. Making user that Ethics for analysis is
 properly followed.
 
 # Project : [Online Market Analysis](https://github.com/jilsjoseph/Market-.git)
+
+* **Python libraries used:** numpy , pandas , TensorFlow, matplotlib, seaborn, sklearn. keras, mglearn
 
 This project is helpful for the companies to increase their profits by marketing their products effectively. The data set is explored using different classification methods and the behavior of online shoppers is identified. This work illustrates the trends behind online shopping, abandonment statistics, and gives us a clear picture of how to prevent it. We will try to arrive at these predictions and observations through various machine learning algorithms. The performances were compared, and we will obtain a final algorithm, with which we can improve the revenue of online shopping.
 
