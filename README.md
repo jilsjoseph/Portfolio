@@ -9,7 +9,18 @@ I am a quick learning adaptive individual I being in the development industry fo
 * PG Certificate in Data Analytics, *St Clair College*, 2018-2020
 * Bachelors of Engineering (Computer Science), *M G University*, 2011-2016
 
-
+# Skills
+• Microsoft excel, word, PowerPoint, Project, Outlook
+• Programming languages: C, C++, C#, Java, Python, R, HTML, CSS
+• IBM Cognos, Tableau, Goggle analytics, Power BI
+• SQL, MySQL, ASP.NET
+• Crystal reports, SQl reporting services
+• Unity 3d, making strip sheets, photoshop
+• Data modelling, mining and cleaning
+• Data Visualization and reporting techniques
+• Detailed and organized
+• Quick and Adaptive learner
+• Project Management
 
 # [Project 1: Toronto Crime Analysis](https://github.com/jilsjoseph/project/blob/master/capstone%20report.pdf)
 ![alt text](aditya-chinchure-AxGByUaoz_o-unsplash (1).jpg)
