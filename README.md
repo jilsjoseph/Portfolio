@@ -75,6 +75,12 @@ and analyze the data in excel and plot and present theses analysis. Use IBM
 Cognos to analyze and report data. Making user that Ethics for analysis is
 properly followed.
 
+# Project : [Online Market Analysis](https://github.com/jilsjoseph/Market-.git)
+
+This project is helpful for the companies to increase their profits by marketing their products effectively. The data set is explored using different classification methods and the behavior of online shoppers is identified. This work illustrates the trends behind online shopping, abandonment statistics, and gives us a clear picture of how to prevent it. We will try to arrive at these predictions and observations through various machine learning algorithms. The performances were compared, and we will obtain a final algorithm, with which we can improve the revenue of online shopping.
+
+
+
 # Work Experience
 * **Concentrix- Technical service advisor, ON 2020-present**
 Provide technical assistance to customers experiencing software, hardware or technical issues via calls and emails. Asist and interact with customer. Offer advice and suggestions to specialists. Making sure that customers are assured, and queries are solved in a timely manner.
